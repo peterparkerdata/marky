@@ -5,7 +5,7 @@ image: assets/img/splash/landing.jpg
 description: Patrones Hermosos es un esfuerzo interdisciplinario que busca soluciones de alto impacto al complejo desafío social-tecnológico de la educación STEM de las mujeres, con énfasis en la computación, en el mundo del desarrollo.
 ---
 
-# Bienvenidos a Patrones Hermosos
+# Hello World
 
 El sitio está compuesto por los siguientes 4 pilares:
 - [Bootcamps](bootcamps.html): Talleres presenciales
